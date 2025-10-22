@@ -50,4 +50,4 @@ Graph URL format:
 https://pixe.la/v1/users/<USERNAME>/graphs/<GRAPH_ID>.html
 
 Example:
-![alt text](<Screenshot 2025-10-21 at 6.49.01 PM.png>)
+https://pixe.la/v1/users/dex9060/graphs/coding.html
